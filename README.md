@@ -1,7 +1,5 @@
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/kishanchauhan7097?v=1788857239275"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="kishanchauhan7097's GitHub profile" src="dark_mode.svg" />
+</picture>
