@@ -9,11 +9,11 @@
 
 
 
-![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishanchauhan7097&show_icons=true&theme=radium)
+[Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishanchauhan7097&show_icons=true&theme=radium)
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanchauhan7097&layout=compact&theme=dracula)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanchauhan7097&layout=compact&theme=dracula)
 
 
 
