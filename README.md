@@ -3,3 +3,14 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="kishanchauhan7097's GitHub profile" src="dark_mode.svg" />
 </picture>
+### 📊 My GitHub Stats
+![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishanchauhan7097&show_icons=true&theme=radium)
+
+### 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanchauhan7097&layout=compact&theme=dracula)
+
+### 🛠️ Tech Stack & Connect
+<a href="https://linkedin.com/in/TUMHARI_LINKEDIN_ID_YAHAN_DALEIN">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
